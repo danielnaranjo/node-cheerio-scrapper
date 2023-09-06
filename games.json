@@ -1,0 +1,866 @@
+[
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pokémon™ Scarlet",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "18/11/22",
+    "link": "Pokémon™ Scarlet18/11/22Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154948
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pokémon™ Violet",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "18/11/22",
+    "link": "Pokémon™ Violet18/11/22Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154950
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Paquete doble de Pokémon™ Scarlet y Pokémon™ Violet",
+    "price": "2,798.00",
+    "platform": "Nintendo Switch",
+    "release": "18/11/22",
+    "link": "Paquete doble de Pokémon™ Scarlet y Pokémon™ Violet18/11/22Precio normal:$2,798.00Nintendo Switch",
+    "id": 1693967154952
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Splatoon™ 3",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "9/9/22",
+    "link": "Splatoon™ 39/9/22Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154953
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Xenoblade Chronicles™ 3",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "29/7/22",
+    "link": "Xenoblade Chronicles™ 329/7/22Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154954
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Kirby’s Dream Buffet™",
+    "price": "355.00",
+    "platform": "Nintendo Switch",
+    "release": "17/8/22",
+    "link": "Kirby’s Dream Buffet™17/8/22Precio normal:$355.00Nintendo Switch",
+    "id": 1693967154955
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Mario Strikers™: Battle League",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "10/6/22",
+    "link": "Mario Strikers™: Battle League10/6/22Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154956
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "MARIO + RABBIDS SPARKS OF HOPE",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "20/10/22",
+    "link": "MARIO + RABBIDS SPARKS OF HOPE20/10/22La oferta termina en: Precio promocional:$699.50Precio normal:$1,399.00-50%Nintendo Switch",
+    "id": 1693967154957
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "LIVE A LIVE",
+    "price": "1,199.00",
+    "platform": "Nintendo Switch",
+    "release": "22/7/22",
+    "link": "LIVE A LIVE22/7/22Versión de prueba gratuitaPrecio normal:$1,199.00Nintendo Switch",
+    "id": 1693967154958
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Fire Emblem Warriors: Three Hopes",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "24/6/22",
+    "link": "Fire Emblem Warriors: Three Hopes24/6/22Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154959
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Nintendo Switch™ Sports",
+    "price": "950.00",
+    "platform": "Nintendo Switch",
+    "release": "29/4/22",
+    "link": "Nintendo Switch™ Sports29/4/22Precio normal:$950.00Nintendo Switch",
+    "id": 1693967154959
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Bayonetta™ 3",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "28/10/22",
+    "link": "Bayonetta™ 328/10/22Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154960
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Monster Hunter Rise + Sunbreak",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "30/6/22",
+    "link": "Monster Hunter Rise + Sunbreak30/6/22La oferta termina en: Precio promocional:$779.37Precio normal:$1,169.00-33%Nintendo Switch",
+    "id": 1693967154961
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "It Takes Two",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "4/11/22",
+    "link": "It Takes Two4/11/22La oferta termina en: Precio promocional:$674.25Precio normal:$899.00-25%Nintendo Switch",
+    "id": 1693967154963
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "HARVESTELLA",
+    "price": "1,200.00",
+    "platform": "Nintendo Switch",
+    "release": "4/11/22",
+    "link": "HARVESTELLA4/11/22Versión de prueba gratuitaPrecio normal:$1,200.00Nintendo Switch",
+    "id": 1693967154964
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "NieR:Automata The End of YoRHa Edition",
+    "price": "800.00",
+    "platform": "Nintendo Switch",
+    "release": "6/10/22",
+    "link": "NieR:Automata The End of YoRHa Edition6/10/22Precio normal:$800.00Nintendo Switch",
+    "id": 1693967154965
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "price": "999.00",
+    "platform": "Nintendo Switch",
+    "release": "30/8/22",
+    "link": "Teenage Mutant Ninja Turtles: The Cowabunga Collection30/8/22Precio normal:$999.00Nintendo Switch",
+    "id": 1693967154966
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Return to Monkey Island",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "19/9/22",
+    "link": "Return to Monkey Island19/9/22La oferta termina en: Precio promocional:$279.30Precio normal:$399.00-30%Nintendo Switch",
+    "id": 1693967154967
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "MLB® The Show™ 22",
+    "price": "1,229.00",
+    "platform": "Nintendo Switch",
+    "release": "5/4/22",
+    "link": "MLB® The Show™ 225/4/22Precio normal:$1,229.00Nintendo Switch",
+    "id": 1693967154967
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Minecraft",
+    "price": "499.00",
+    "platform": "Nintendo Switch",
+    "release": "20/6/18",
+    "link": "Minecraft20/6/18Precio normal:$499.00Nintendo Switch",
+    "id": 1693967154969
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "PAC-MAN WORLD Re-PAC",
+    "price": "619.00",
+    "platform": "Nintendo Switch",
+    "release": "26/8/22",
+    "link": "PAC-MAN WORLD Re-PAC26/8/22Precio normal:$619.00Nintendo Switch",
+    "id": 1693967154970
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "EA SPORTS FIFA 23 Edición Legado para Nintendo Switch™ ",
+    "price": "899.00",
+    "platform": "Nintendo Switch",
+    "release": "30/9/22",
+    "link": "EA SPORTS FIFA 23 Edición Legado para Nintendo Switch™ 30/9/22Precio normal:$899.00Nintendo Switch",
+    "id": 1693967154970
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "No Man's Sky",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "7/10/22",
+    "link": "No Man's Sky7/10/22La oferta termina en: Precio promocional:$699.50Precio normal:$1,399.00-50%Nintendo Switch",
+    "id": 1693967154971
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pokémon UNITE",
+    "price": "0.00",
+    "platform": "Nintendo Switch",
+    "release": "21/7/21",
+    "link": "Pokémon UNITE21/7/21Descarga gratuitaPrecio normal:$0.00Nintendo Switch",
+    "id": 1693967154972
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Fortnite",
+    "price": "0.00",
+    "platform": "Nintendo Switch",
+    "release": "12/6/18",
+    "link": "Fortnite12/6/18Descarga gratuitaPrecio normal:$0.00Nintendo Switch",
+    "id": 1693967154973
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Fall Guys",
+    "price": "0.00",
+    "platform": "Nintendo Switch",
+    "release": "21/6/22",
+    "link": "Fall Guys21/6/22Descarga gratuitaPrecio normal:$0.00Nintendo Switch",
+    "id": 1693967154974
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Apex Legends™",
+    "price": "0.00",
+    "platform": "Nintendo Switch",
+    "release": "9/3/21",
+    "link": "Apex Legends™9/3/21Descarga gratuitaPrecio normal:$0.00Nintendo Switch",
+    "id": 1693967154975
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Rocket League®",
+    "price": "0.00",
+    "platform": "Nintendo Switch",
+    "release": "14/11/17",
+    "link": "Rocket League®14/11/17Descarga gratuitaPrecio normal:$0.00Nintendo Switch",
+    "id": 1693967154976
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pokémon™ Legends: Arceus",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "28/1/22",
+    "link": "Pokémon™ Legends: Arceus28/1/22Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154977
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Metroid™ Dread",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "8/10/21",
+    "link": "Metroid™ Dread8/10/21Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154978
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pokémon™ Brilliant Diamond",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "19/11/21",
+    "link": "Pokémon™ Brilliant Diamond19/11/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154979
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pokémon™ Shining Pearl",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "19/11/21",
+    "link": "Pokémon™ Shining Pearl19/11/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154979
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "New Pokémon Snap™",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "30/4/21",
+    "link": "New Pokémon Snap™30/4/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154980
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Mario Kart™ 8 Deluxe",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "28/4/17",
+    "link": "Mario Kart™ 8 Deluxe28/4/17Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154981
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Mario Party™ Superstars",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "29/10/21",
+    "link": "Mario Party™ Superstars29/10/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154981
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "TRIANGLE STRATEGY™",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "4/3/22",
+    "link": "TRIANGLE STRATEGY™4/3/22Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154983
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Kirby™ and the Forgotten Land",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "25/3/22",
+    "link": "Kirby™ and the Forgotten Land25/3/22Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154983
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Super Smash Bros.™ Ultimate",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "7/12/18",
+    "link": "Super Smash Bros.™ Ultimate7/12/18Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154984
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Big Brain Academy™: Brain vs. Brain",
+    "price": "729.00",
+    "platform": "Nintendo Switch",
+    "release": "3/12/21",
+    "link": "Big Brain Academy™: Brain vs. Brain3/12/21Versión de prueba gratuitaPrecio normal:$729.00Nintendo Switch",
+    "id": 1693967154985
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "The Legend of Zelda™: Skyward Sword HD",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "16/7/21",
+    "link": "The Legend of Zelda™: Skyward Sword HD16/7/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154986
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Animal Crossing™: New Horizons",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "20/3/20",
+    "link": "Animal Crossing™: New Horizons20/3/20Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154986
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "BRAVELY DEFAULT™ II",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "26/2/21",
+    "link": "BRAVELY DEFAULT™ II26/2/21Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154987
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Super Mario™ 3D World + Bowser’s Fury",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "12/2/21",
+    "link": "Super Mario™ 3D World + Bowser’s Fury12/2/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154988
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Hyrule Warriors: Age of Calamity",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "20/11/20",
+    "link": "Hyrule Warriors: Age of Calamity20/11/20Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154988
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "WarioWare™: Get It Together!",
+    "price": "1,199.00",
+    "platform": "Nintendo Switch",
+    "release": "10/9/21",
+    "link": "WarioWare™: Get It Together!10/9/21Versión de prueba gratuitaPrecio normal:$1,199.00Nintendo Switch",
+    "id": 1693967154989
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Super Mario Odyssey™",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "27/10/17",
+    "link": "Super Mario Odyssey™27/10/17Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154990
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "The Legend of Zelda™: Breath of the Wild",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "3/3/17",
+    "link": "The Legend of Zelda™: Breath of the Wild3/3/17Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154990
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Pikmin™ 3 Deluxe",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "30/10/20",
+    "link": "Pikmin™ 3 Deluxe30/10/20Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154991
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Fitness Boxing 2: Rhythm & Exercise",
+    "price": "1,199.00",
+    "platform": "Nintendo Switch",
+    "release": "4/12/20",
+    "link": "Fitness Boxing 2: Rhythm & Exercise4/12/20Versión de prueba gratuitaPrecio normal:$1,199.00Nintendo Switch",
+    "id": 1693967154992
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Miitopia™",
+    "price": "1,199.00",
+    "platform": "Nintendo Switch",
+    "release": "21/5/21",
+    "link": "Miitopia™21/5/21Versión de prueba gratuitaPrecio normal:$1,199.00Nintendo Switch",
+    "id": 1693967154993
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Game Builder Garage™",
+    "price": "729.00",
+    "platform": "Nintendo Switch",
+    "release": "11/6/21",
+    "link": "Game Builder Garage™11/6/21Versión de prueba gratuitaPrecio normal:$729.00Nintendo Switch",
+    "id": 1693967154994
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Mario Golf™: Super Rush",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "25/6/21",
+    "link": "Mario Golf™: Super Rush25/6/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154994
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Clubhouse Games™: 51 Worldwide Classics",
+    "price": "999.00",
+    "platform": "Nintendo Switch",
+    "release": "5/6/20",
+    "link": "Clubhouse Games™: 51 Worldwide Classics5/6/20Versión de prueba gratuitaPrecio normal:$999.00Nintendo Switch",
+    "id": 1693967154995
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Paper Mario™: The Origami King",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "17/7/20",
+    "link": "Paper Mario™: The Origami King17/7/20Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154996
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "New Super Mario Bros.™ U Deluxe",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "11/1/19",
+    "link": "New Super Mario Bros.™ U Deluxe11/1/19Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154997
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Yoshi’s Crafted World™",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "29/3/19",
+    "link": "Yoshi’s Crafted World™29/3/19Versión de prueba gratuitaPrecio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154998
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Luigi’s Mansion™ 3",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "31/10/19",
+    "link": "Luigi’s Mansion™ 331/10/19Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154998
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Super Mario Maker™ 2",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "28/6/19",
+    "link": "Super Mario Maker™ 228/6/19Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967154999
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "The Legend of Zelda™: Link’s Awakening",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "20/9/19",
+    "link": "The Legend of Zelda™: Link’s Awakening20/9/19Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967155000
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Fire Emblem™: Three Houses",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "26/7/19",
+    "link": "Fire Emblem™: Three Houses26/7/19Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967155000
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "SD GUNDAM BATTLE ALLIANCE",
+    "price": "1,200.00",
+    "platform": "Nintendo Switch",
+    "release": "25/8/22",
+    "link": "SD GUNDAM BATTLE ALLIANCE25/8/22Versión de prueba gratuitaPrecio normal:$1,200.00Nintendo Switch",
+    "id": 1693967155001
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Plants vs. Zombies: Battle for Neighborville™ Complete Edition",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "19/3/21",
+    "link": "Plants vs. Zombies: Battle for Neighborville™ Complete Edition19/3/21La oferta termina en: Precio promocional:$134.85Precio normal:$899.00-85%Nintendo Switch",
+    "id": 1693967155002
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Just Dance® 2022",
+    "price": "999.00",
+    "platform": "Nintendo Switch",
+    "release": "4/11/21",
+    "link": "Just Dance® 20224/11/21Precio normal:$999.00Nintendo Switch",
+    "id": 1693967155003
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "14/1/21",
+    "link": "Scott Pilgrim vs. The World™: The Game – Complete Edition14/1/21La oferta termina en: Precio promocional:$98.65Precio normal:$299.00-67%Nintendo Switch",
+    "id": 1693967155004
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "STAR WARS™: The Force Unleashed™",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "20/4/22",
+    "link": "STAR WARS™: The Force Unleashed™20/4/22La oferta termina en: Precio promocional:$266.37Precio normal:$409.80-35%Nintendo Switch",
+    "id": 1693967155004
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Phoenix Wright: Ace Attorney Trilogy",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "9/4/19",
+    "link": "Phoenix Wright: Ace Attorney Trilogy9/4/19La oferta termina en: Precio promocional:$199.98Precio normal:$600.00-66%Nintendo Switch",
+    "id": 1693967155006
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Sonic Origins ",
+    "price": "559.99",
+    "platform": "Nintendo Switch",
+    "release": "23/6/22",
+    "link": "Sonic Origins 23/6/22Precio normal:$559.99Nintendo Switch",
+    "id": 1693967155007
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "No More Heroes 3",
+    "price": "1,199.00",
+    "platform": "Nintendo Switch",
+    "release": "27/8/21",
+    "link": "No More Heroes 327/8/21Precio normal:$1,199.00Nintendo Switch",
+    "id": 1693967155008
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "13 Sentinels: Aegis Rim",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "12/4/22",
+    "link": "13 Sentinels: Aegis Rim12/4/22La oferta termina en: Precio promocional:$449.70Precio normal:$1,499.00-70%Nintendo Switch",
+    "id": 1693967155008
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+    "price": "400.00",
+    "platform": "Nintendo Switch",
+    "release": "7/4/22",
+    "link": "CHRONO CROSS: THE RADICAL DREAMERS EDITION7/4/22Precio normal:$400.00Nintendo Switch",
+    "id": 1693967155009
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Shin Megami Tensei V Digital Deluxe Edition",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "12/11/21",
+    "link": "Shin Megami Tensei V Digital Deluxe Edition12/11/21La oferta termina en: Precio promocional:$1,049.50Precio normal:$2,099.00-50%Nintendo Switch",
+    "id": 1693967155010
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "The Witcher 3: Wild Hunt",
+    "price": "699.98",
+    "platform": "Nintendo Switch",
+    "release": "28/1/21",
+    "link": "The Witcher 3: Wild Hunt28/1/21Precio normal:$699.98Nintendo Switch",
+    "id": 1693967155011
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "The Elder Scrolls V: Skyrim",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "17/11/17",
+    "link": "The Elder Scrolls V: Skyrim17/11/17La oferta termina en: Precio promocional:$699.50Precio normal:$1,399.00-50%Nintendo Switch",
+    "id": 1693967155012
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "DARK SOULS™: REMASTERED",
+    "price": "999.00",
+    "platform": "Nintendo Switch",
+    "release": "19/10/18",
+    "link": "DARK SOULS™: REMASTERED19/10/18Precio normal:$999.00Nintendo Switch",
+    "id": 1693967155012
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Famicom Detective Club™: The Girl Who Stands Behind",
+    "price": "901.31",
+    "platform": "Nintendo Switch",
+    "release": "14/5/21",
+    "link": "Famicom Detective Club™: The Girl Who Stands Behind14/5/21Precio normal:$901.31Nintendo Switch",
+    "id": 1693967155013
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Famicom Detective Club™: The Missing Heir",
+    "price": "901.31",
+    "platform": "Nintendo Switch",
+    "release": "14/5/21",
+    "link": "Famicom Detective Club™: The Missing Heir14/5/21Precio normal:$901.31Nintendo Switch",
+    "id": 1693967155014
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Monster Hunter Stories 2: Wings of Ruin",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "9/7/21",
+    "link": "Monster Hunter Stories 2: Wings of Ruin9/7/21La oferta termina en: Precio promocional:$389.50Precio normal:$779.00-50%Nintendo Switch",
+    "id": 1693967155015
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "DRAGON QUEST BUILDERS™ 2 ",
+    "price": "1,199.00",
+    "platform": "Nintendo Switch",
+    "release": "12/7/19",
+    "link": "DRAGON QUEST BUILDERS™ 2 12/7/19Versión de prueba gratuitaPrecio normal:$1,199.00Nintendo Switch",
+    "id": 1693967155015
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "DC Super Hero Girls™: Teen Power",
+    "price": "1,399.00",
+    "platform": "Nintendo Switch",
+    "release": "4/6/21",
+    "link": "DC Super Hero Girls™: Teen Power4/6/21Precio normal:$1,399.00Nintendo Switch",
+    "id": 1693967155016
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Among Us",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "15/12/20",
+    "link": "Among Us15/12/20La oferta termina en: Precio promocional:$58.20Precio normal:$97.00-40%Nintendo Switch",
+    "id": 1693967155017
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Ooblets",
+    "price": "599.99",
+    "platform": "Nintendo Switch",
+    "release": "1/9/22",
+    "link": "Ooblets1/9/22Precio normal:$599.99Nintendo Switch",
+    "id": 1693967155018
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Cult of the Lamb",
+    "price": "399.00",
+    "platform": "Nintendo Switch",
+    "release": "11/8/22",
+    "link": "Cult of the Lamb11/8/22Precio normal:$399.00Nintendo Switch",
+    "id": 1693967155018
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Hades",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "17/9/20",
+    "link": "Hades17/9/20La oferta termina en: Precio promocional:$242.40Precio normal:$484.81-50%Nintendo Switch",
+    "id": 1693967155019
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Stardew Valley",
+    "price": "149.99",
+    "platform": "Nintendo Switch",
+    "release": "5/10/17",
+    "link": "Stardew Valley5/10/17Precio normal:$149.99Nintendo Switch",
+    "id": 1693967155075
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Cuphead",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "18/4/19",
+    "link": "Cuphead18/4/19La oferta termina en: Precio promocional:$244.30Precio normal:$349.00-30%Nintendo Switch",
+    "id": 1693967155076
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "16/6/22",
+    "link": "Teenage Mutant Ninja Turtles: Shredder's Revenge16/6/22La oferta termina en: Precio promocional:$163.79Precio normal:$233.99-30%Nintendo Switch",
+    "id": 1693967155076
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Cursed to Golf",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "18/8/22",
+    "link": "Cursed to Golf18/8/22La oferta termina en: Precio promocional:$111.59Precio normal:$185.99-40%Nintendo Switch",
+    "id": 1693967155077
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Cozy Grove",
+    "price": "149.99",
+    "platform": "Nintendo Switch",
+    "release": "8/4/21",
+    "link": "Cozy Grove8/4/21Precio normal:$149.99Nintendo Switch",
+    "id": 1693967155077
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Hollow Knight",
+    "price": "149.99",
+    "platform": "Nintendo Switch",
+    "release": "12/6/18",
+    "link": "Hollow Knight12/6/18Precio normal:$149.99Nintendo Switch",
+    "id": 1693967155078
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Unpacking",
+    "price": "399.00",
+    "platform": "Nintendo Switch",
+    "release": "2/11/21",
+    "link": "Unpacking2/11/21Precio normal:$399.00Nintendo Switch",
+    "id": 1693967155079
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Subnautica",
+    "price": "749.00",
+    "platform": "Nintendo Switch",
+    "release": "14/5/21",
+    "link": "Subnautica14/5/21Precio normal:$749.00Nintendo Switch",
+    "id": 1693967155079
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Overcooked! 2",
+    "price": "299.99",
+    "platform": "Nintendo Switch",
+    "release": "7/8/18",
+    "link": "Overcooked! 27/8/18Precio normal:$299.99Nintendo Switch",
+    "id": 1693967155080
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Portal Companion Collection",
+    "price": "254.99",
+    "platform": "Nintendo Switch",
+    "release": "28/6/22",
+    "link": "Portal Companion Collection28/6/22Paquete de juego + contenido descargablePrecio normal:$254.99Nintendo Switch",
+    "id": 1693967155080
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+    "price": "593.00",
+    "platform": "Nintendo Switch",
+    "release": "13/6/19",
+    "link": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda13/6/19Versión de prueba gratuitaPrecio normal:$593.00Nintendo Switch",
+    "id": 1693967155081
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Untitled Goose Game",
+    "price": "",
+    "platform": "Nintendo Switch",
+    "release": "20/9/19",
+    "link": "Untitled Goose Game20/9/19La oferta termina en: Precio promocional:$194.99Precio normal:$389.99-50%Nintendo Switch",
+    "id": 1693967155081
+  },
+  {
+    "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
+    "name": "Chicory: A Colorful Tale",
+    "price": "385.20",
+    "platform": "Nintendo Switch",
+    "release": "15/12/21",
+    "link": "Chicory: A Colorful Tale15/12/21Precio normal:$385.20Nintendo Switch",
+    "id": 1693967155082
+  }
+]
